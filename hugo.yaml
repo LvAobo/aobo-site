@@ -24,7 +24,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Aobo's Page"
     weight: 1
 
   zh:
