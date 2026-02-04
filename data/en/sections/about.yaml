@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a PhD student in Systems Science and Mathematics. My research lies at the intersection of control theory and information theory. Recently, I have been focusing on higher-order interactions in complex systems, including the control of higher-order networks and Partial Information Decomposition (PID), an information-theoretic framework for quantifying multivariate higher-order relationships.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
