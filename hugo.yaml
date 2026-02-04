@@ -1,6 +1,5 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: https://hugo-themes.github.io/toha-example-site/
-
+baseURL: https://aobo.page
 languageCode: en
 title: "Aobo's page"
 
@@ -26,8 +25,8 @@ languages:
     languageName: English
     title: "Aobo's page"
     weight: 1
-  bn:
-    languageCode: ch
+  cn:
+    languageCode: cn
     languageName: 简体中文
     title: 奥博的个人网站
     weight: 2
