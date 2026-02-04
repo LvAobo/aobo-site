@@ -1,5 +1,5 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: https://aobo.page
+baseURL: https://aobo.page/
 languageCode: en
 title: "Aobo's page"
 
@@ -7,7 +7,22 @@ title: "Aobo's page"
 module:
   imports:
   - path: github.com/hugo-toha/toha/v4
-  mounts:
+  mounts:    
+  # ---- re-add default mounts (VERY IMPORTANT) ----
+    - source: content
+      target: content
+    - source: data
+      target: data
+    - source: layouts
+      target: layouts
+    - source: i18n
+      target: i18n
+    - source: archetypes
+      target: archetypes
+    - source: assets
+      target: assets
+    - source: static
+      target: static
   - source: static/files
     target: static/files
   - source: ./node_modules/flag-icons/flags
@@ -25,8 +40,8 @@ languages:
     languageName: English
     title: "Aobo's page"
     weight: 1
-  cn:
-    languageCode: cn
+  zh-cn:
+    languageCode: zh-cn
     languageName: 简体中文
     title: 奥博的个人网站
     weight: 2
