@@ -1,0 +1,6 @@
+section:
+  name: 最新文章
+  id: recent-posts
+  enable: false
+  weight: 10
+  showOnNavbar: false

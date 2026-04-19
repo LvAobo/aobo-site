@@ -1,49 +1,49 @@
 # section information
 section:
-  name: Teaching & Service
+  name: 教学与服务
   id: experiences
   enable: true
   weight: 5
   showOnNavbar: true
 
-# Teaching & Service
+# 教学与服务
 experiences:
 - company:
-    name: Swarma Club (集智俱乐部)
+    name: 集智俱乐部 (Swarma Club)
     url: "https://swarma.org/"
-    location: Beijing / Online
-    overview: "Academic reading group organizer and speaker. For a detailed list of my activities, topics, and related links, see my [Swarma profile](https://pattern.swarma.org/user/74882/study_groups)."
+    location: 北京 / 线上
+    overview: "学术读书会发起人与讲者。活动详情、主题及相关链接请参见[集智斑图个人主页](https://pattern.swarma.org/user/74882/study_groups)。"
   positions:
-  - designation: Research Reading Group Organizer & Speaker
+  - designation: 学术读书会发起人与讲者
     start: 2021
 
 - company:
-    name: Teaching Assistant
+    name: 助教
     url: "https://engineering.washu.edu/"
-    location: Washington University in St. Louis
-    overview: Graduate Teaching Assistant in the Department of Electrical and Systems Engineering.
+    location: 圣路易斯华盛顿大学
+    overview: 在电气与系统工程系担任研究生助教。
   positions:
   - designation: "ESE 2180: Linear Algebra and Component Analysis"
-    start: Fall 2026
-    end: Fall 2026
+    start: 2026年秋
+    end: 2026年秋
     responsibilities: []
   - designation: "ESE 1050: Introduction to Electrical and Systems Engineering"
-    start: Fall 2025
-    end: Fall 2025
+    start: 2025年秋
+    end: 2025年秋
     responsibilities: []
   - designation: "ESE 5240: Estimation and Detection"
-    start: Spring 2025
-    end: Spring 2025
+    start: 2025年春
+    end: 2025年春
     responsibilities: []
   - designation: "ESE 5290: High-Dimensional Information Processing"
-    start: Fall 2024
-    end: Fall 2024
+    start: 2024年秋
+    end: 2024年秋
     responsibilities: []
 
 - company:
-    name: Peer Reviewer
-    location: Online
-    overview: Served as a reviewer for the following journals and conferences.
+    name: 审稿人
+    location: 线上
+    overview: 为以下期刊和会议担任审稿人。
   positions:
   - designation: "Automatica"
     start: " "

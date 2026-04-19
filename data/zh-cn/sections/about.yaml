@@ -1,0 +1,37 @@
+# section information
+section:
+  name: 关于我
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# 身份
+designation: 博士研究生
+# 学校信息
+company:
+  name: 圣路易斯华盛顿大学
+  url: "https://washu.edu/"
+
+# 个人简介
+summary: '我是圣路易斯华盛顿大学电气与系统工程系的博士研究生，导师为Andrew Clark教授和Netanel Raviv教授。2024年获得华盛顿大学系统科学与数学硕士学位，2021年获得四川大学信息管理与信息系统学士学位。我的研究关注复杂系统的普遍规律，目前专注于多元高阶关系——具体包括部分信息分解（PID）和高阶网络控制两个方向。'
+
+# 社交链接
+socialLinks:
+- name: 邮箱
+  icon: "fas fa-envelope"
+  url: "mailto:aobo.lyu@wustl.edu"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/LvAobo"
+
+- name: Google Scholar
+  icon: "fas fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=jOg4fJEAAAAJ"
+
+# 资源链接
+resourceLinks:
+- title: "我的简历"
+  url: "files/resume.pdf"

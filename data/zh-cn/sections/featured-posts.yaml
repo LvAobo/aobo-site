@@ -1,0 +1,6 @@
+section:
+  name: 精选文章
+  id: featured-posts
+  enable: false
+  weight: 10
+  showOnNavbar: false

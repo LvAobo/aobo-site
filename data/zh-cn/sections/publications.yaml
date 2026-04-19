@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Publications
+  name: 学术论文
   id: publications
   enable: true
   weight: 4
@@ -8,20 +8,20 @@ section:
 
 # filter buttons
 buttons:
-- name: All
+- name: 全部
   filter: "all"
-- name: "Information Decomposition"
+- name: "信息分解"
   filter: "info-decomposition"
-- name: "Complex Systems"
+- name: "复杂系统"
   filter: "complex-systems"
-- name: "Other"
+- name: "其他"
   filter: "other"
 
-# your publications
+# 论文列表
 publications:
 - title: "Structural Impossibility of Antichain-Lattice Partial Information Decomposition"
   publishedIn:
-    name: arXiv preprint
+    name: arXiv 预印本
     date: 2026
     url: https://arxiv.org/abs/2604.03869
   authors:
@@ -29,29 +29,29 @@ publications:
   - name: A. Clark
   - name: N. Raviv
   paper:
-    summary: This work establishes fundamental structural impossibility results for the antichain-lattice framework of Partial Information Decomposition.
+    summary: 本文建立了反链格偏信息分解框架的基本结构不可能性结果。
     url: https://arxiv.org/abs/2604.03869
   categories: ["info-decomposition"]
-  tags: ["PID", "Information Theory"]
+  tags: ["PID", "信息论"]
 
 - title: "Multivariate Partial Information Decomposition: Constructions, Inconsistencies, and Alternative Measures"
   publishedIn:
     name: Physical Review E
-    date: March 2026
+    date: 2026年3月
     url: https://journals.aps.org/pre/abstract/10.1103/8rzp-w5z1
   authors:
   - name: A. Lyu
   - name: A. Clark
   - name: N. Raviv
   paper:
-    summary: We provide explicit closed-form formulas for all information atoms in the two-source case and prove that for three or more sources, PID suffers from fundamental inconsistencies. We propose alternative measures to address these issues.
+    summary: 我们给出了双源情形下所有信息原子的显式闭合公式，并证明了三个或更多源时PID存在根本性的不一致性，同时提出了替代度量。
     url: https://arxiv.org/abs/2508.05530
   categories: ["info-decomposition"]
-  tags: ["PID", "Information Theory", "Multivariate Analysis"]
+  tags: ["PID", "信息论", "多元分析"]
 
 - title: "The Whole Is Less than the Sum of Parts: Subsystem Inconsistency in Partial Information Decomposition"
   publishedIn:
-    name: arXiv preprint
+    name: arXiv 预印本
     date: 2025
     url: https://arxiv.org/abs/2510.14864
   authors:
@@ -59,10 +59,10 @@ publications:
   - name: A. Clark
   - name: N. Raviv
   paper:
-    summary: This work identifies and analyzes the subsystem inconsistency problem in Partial Information Decomposition, showing that the whole can be less than the sum of its parts.
+    summary: 本文识别并分析了部分信息分解中的子系统不一致性问题，表明整体可以小于部分之和。
     url: https://arxiv.org/abs/2510.14864
   categories: ["info-decomposition"]
-  tags: ["PID", "Information Theory"]
+  tags: ["PID", "信息论"]
 
 - title: "Emergence and Causality in Complex Systems: A Survey of Causal Emergence and Related Quantitative Studies"
   publishedIn:
@@ -80,10 +80,10 @@ publications:
   - name: M. Mou
   - name: P. Cui
   paper:
-    summary: A comprehensive survey reviewing quantitative approaches to understanding causal emergence in complex systems, covering information-theoretic and computational methods.
+    summary: 一篇综合综述，回顾了复杂系统中因果涌现的定量研究方法，涵盖信息论和计算方法。
     url: https://doi.org/10.3390/e26020108
   categories: ["complex-systems"]
-  tags: ["Emergence", "Causality", "Complex Systems"]
+  tags: ["涌现", "因果性", "复杂系统"]
 
 - title: "Explicit Formula for Partial Information Decomposition"
   publishedIn:
@@ -95,27 +95,27 @@ publications:
   - name: A. Clark
   - name: N. Raviv
   paper:
-    summary: We derive an explicit closed-form formula for the bivariate Partial Information Decomposition, providing analytical solutions for redundancy, unique information, and synergy.
+    summary: 我们推导了双变量部分信息分解的显式闭合公式，给出了冗余、独特信息和协同信息的解析解。
     url: https://doi.org/10.1109/ISIT57864.2024.10619205
   categories: ["info-decomposition"]
-  tags: ["PID", "Information Theory", "ISIT"]
+  tags: ["PID", "信息论", "ISIT"]
 
 - title: "Capturing Higher-order Relationships through Information Decomposition"
   publishedIn:
-    name: McKelvey School of Engineering Theses & Dissertations
+    name: McKelvey工学院学位论文
     date: 2024
     url: https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=2083&context=eng_etds
   authors:
   - name: A. Lyu
   paper:
-    summary: Master's thesis exploring the use of information decomposition frameworks to capture and quantify higher-order relationships in complex systems.
+    summary: 硕士论文，探索利用信息分解框架捕捉和量化复杂系统中的高阶关系。
     url: https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=2083&context=eng_etds
   categories: ["info-decomposition", "complex-systems"]
-  tags: ["Thesis", "PID", "Higher-order Interactions"]
+  tags: ["学位论文", "PID", "高阶交互"]
 
 - title: "System Information Decomposition"
   publishedIn:
-    name: arXiv preprint
+    name: arXiv 预印本
     date: 2023
     url: https://arxiv.org/abs/2306.08288
   authors:
@@ -126,10 +126,10 @@ publications:
   - name: A. Clark
   - name: J. Zhang
   paper:
-    summary: We introduce System Information Decomposition (SID), a holistic framework that decomposes the information entropy of all variables in a system into information atoms, going beyond the source-target paradigm of traditional PID.
+    summary: 我们提出了系统信息分解（SID）框架，将系统中所有变量的信息熵分解为信息原子，超越了传统PID的源-目标范式。
     url: https://arxiv.org/abs/2306.08288
   categories: ["info-decomposition", "complex-systems"]
-  tags: ["SID", "Information Theory", "Complex Systems"]
+  tags: ["SID", "信息论", "复杂系统"]
 
 - title: "A Study on the Dynamic Issuance Mechanism Based on Central Bank Digital Currency"
   publishedIn:
@@ -140,13 +140,13 @@ publications:
   - name: J. Jiang
   - name: L. Zhou
   paper:
-    summary: This paper studies the dynamic issuance mechanism of Central Bank Digital Currency (CBDC) and its implications for monetary policy.
+    summary: 本文研究了央行数字货币（CBDC）的动态发行机制及其对货币政策的影响。
   categories: ["other"]
-  tags: ["CBDC", "Digital Currency"]
+  tags: ["CBDC", "数字货币"]
 
 - title: "Research on Credit Mechanism of Electronic Honor Certificate System Based on Blockchain"
   publishedIn:
-    name: Conference paper
+    name: 会议论文
     date: 2020
   authors:
   - name: Y. Zhao
@@ -154,6 +154,6 @@ publications:
   - name: L. Zhou
   - name: A. Lyu
   paper:
-    summary: This paper proposes a blockchain-based credit mechanism for electronic honor certificate systems.
+    summary: 本文提出了基于区块链的电子荣誉证书系统信用机制。
   categories: ["other"]
-  tags: ["Blockchain"]
+  tags: ["区块链"]

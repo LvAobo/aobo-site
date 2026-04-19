@@ -1,0 +1,6 @@
+section:
+  name: 成就
+  id: accomplishments
+  enable: false
+  weight: 10
+  showOnNavbar: false

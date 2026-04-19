@@ -1,0 +1,22 @@
+# section information
+section:
+  name: 研究方向
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  filter: false
+
+# 研究方向
+skills:
+- name: 复杂系统
+  logo: /images/sections/skills/cloud.png
+  summary: "我广泛关注复杂系统中的普遍规律，包括涌现、自组织、意识等现象在各类系统中的共性与机制。"
+
+- name: 部分信息分解
+  logo: /images/sections/skills/kubernetes.png
+  summary: "我的研究致力于发展部分信息分解（PID）的理论基础。PID是一种信息论框架，能够将多元变量间的关系分解为冗余、独特和协同成分，从而识别复杂系统中的高阶交互。"
+
+- name: 高阶网络
+  logo: /images/sections/skills/git.png
+  summary: "我研究如何通过超图和单纯复形等数学结构来表征和控制高阶交互，将经典网络科学从成对关系拓展到多元关系。"

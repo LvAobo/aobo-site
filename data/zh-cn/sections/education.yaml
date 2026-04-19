@@ -1,0 +1,49 @@
+# section information
+section:
+  name: 教育背景
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+degrees:
+- name: 系统科学与数学 博士
+  icon: fa-microscope
+  timeframe: 2024 - 至今
+  institution:
+    name: 圣路易斯华盛顿大学
+    url: "https://washu.edu/"
+    logo: /images/sections/education/washu.png
+  extracurricularActivities:
+  - "圆号手，华盛顿大学交响乐团与管乐团"
+  - "ESE系 Ph.D. Advisory Board 成员"
+
+- name: 系统科学与数学 硕士
+  icon: fa-graduation-cap
+  timeframe: 2022 - 2024
+  institution:
+    name: 圣路易斯华盛顿大学
+    url: "https://washu.edu/"
+    logo: /images/sections/education/washu.png
+  customSections:
+    - name: 荣誉
+      content: "荣誉硕士生 (Honors Master Student)；杰出硕士研究奖 (Outstanding Master's Research Award)"
+  extracurricularActivities:
+  - "圆号手，华盛顿大学交响乐团"
+  - "ESE系 Master Advisory Board 成员"
+
+- name: 信息管理与信息系统 学士
+  icon: fa-university
+  timeframe: 2017 - 2021
+  institution:
+    name: 四川大学 公共管理学院
+    url: "https://www.scu.edu.cn/"
+    logo: /images/sections/education/scu.png
+  customSections:
+    - name: 荣誉
+      content: "四川省优秀本科毕业生，2021；永庄十佳大学生奖学金，2019"
+  extracurricularActivities:
+  - "圆号首席，四川大学交响乐团与管乐团"
+  - "队长，公共管理学院羽毛球队"
+  - "技术部部长，学校自行车协会"

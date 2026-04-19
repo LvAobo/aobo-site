@@ -1,0 +1,6 @@
+section:
+  name: 项目
+  id: projects
+  enable: false
+  weight: 10
+  showOnNavbar: false

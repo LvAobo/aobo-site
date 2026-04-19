@@ -1,0 +1,16 @@
+# 个人信息
+name: "吕奥博"
+nickname: "奥博"
+greeting: "你好，我是"
+image: "images/author/aobo.jpg"
+# 联系信息
+contactInfo:
+  email: "aobo.lyu@wustl.edu"
+  github: LvAobo
+
+# 个人简介
+summary:
+  - 圣路易斯华盛顿大学博士生
+  - 研究复杂系统
+  - 专注信息分解理论
+  - 探索高阶网络

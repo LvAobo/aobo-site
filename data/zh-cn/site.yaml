@@ -1,0 +1,23 @@
+# 版权声明
+copyright: © 2024 吕奥博 保留所有权利。
+
+# 免责声明
+disclaimer: "本站内容代表我的个人观点和研究工作。"
+
+# 网站描述
+description: 吕奥博的个人网站——圣路易斯华盛顿大学博士生，研究方向为复杂系统、信息分解与高阶网络。
+
+# 顶部导航栏自定义菜单
+customMenus:
+- name: Google Scholar
+  url: https://scholar.google.com/citations?user=jOg4fJEAAAAJ
+  hideFromNavbar: false
+  showOnFooter: true
+
+# OpenGraph 头信息
+openGraph:
+  title: 吕奥博
+  type: website
+  description: 吕奥博的个人网站——圣路易斯华盛顿大学博士生，研究方向为复杂系统、信息分解与高阶网络。
+  image: images/author/aobo.jpg
+  url: https://aobo.page
