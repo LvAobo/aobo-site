@@ -1,0 +1,10 @@
+// Make the author avatar larger and sharper on the landing page
+.author-image {
+  img {
+    max-width: 250px !important;
+    max-height: 250px !important;
+    width: 250px !important;
+    height: 250px !important;
+    image-rendering: auto;
+  }
+}

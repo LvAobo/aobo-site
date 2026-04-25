@@ -14,7 +14,7 @@ degrees:
   institution:
     name: Washington University in St. Louis
     url: "https://washu.edu/"
-    logo: /images/sections/education/washu.png
+    logo: /images/sections/education/washu.jpg
   extracurricularActivities:
   - "French Horn Player, WashU Symphony Orchestra & Wind Ensemble"
   - "Member, ESE Ph.D. Advisory Board"
@@ -25,7 +25,7 @@ degrees:
   institution:
     name: Washington University in St. Louis
     url: "https://washu.edu/"
-    logo: /images/sections/education/washu.png
+    logo: /images/sections/education/washu.jpg
   customSections:
     - name: Honors
       content: "Honors Master Student; Outstanding Master's Research Award"
@@ -33,13 +33,23 @@ degrees:
   - "French Horn Player, WashU Symphony Orchestra"
   - "Member, ESE Master Advisory Board"
 
+- name: Visiting Student, School of Information
+  icon: fa-plane
+  timeframe: 2020 - 2020
+  institution:
+    name: University of California, Berkeley
+    url: "https://www.berkeley.edu/"
+    logo: /images/sections/education/berkeley.png
+  extracurricularActivities:
+  - "French Horn Player, The Intermission Orchestra at Berkeley"
+
 - name: B.S. in Information Management and Information Systems
   icon: fa-university
   timeframe: 2017 - 2021
   institution:
     name: Sichuan University, School of Public Administration
     url: "https://www.scu.edu.cn/"
-    logo: /images/sections/education/scu.png
+    logo: /images/sections/education/sichuan_university.png
   customSections:
     - name: Honors
       content: "Honors Graduate of Sichuan Province, 2021; Yongzhuang Top-10 Undergraduate Scholarship, 2019"

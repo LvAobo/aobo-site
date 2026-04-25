@@ -6,8 +6,25 @@ section:
   weight: 6
   showOnNavbar: true
 
-# 照片墙 — 请替换为你自己的照片
 achievements:
-- title: 占位图片
-  image: /images/sections/achievements/presenter.jpg
-  summary: 请替换为你自己的照片和说明文字。
+- title: 华盛顿大学管乐团
+  image: /images/sections/achievements/washu_wind.jpg
+  summary: 在华盛顿大学管乐团演出。
+- title: 华盛顿大学交响乐团
+  image: /images/sections/achievements/washu_sym.JPG
+  summary: 在华盛顿大学交响乐团演出。
+- title: 伯克利 Intermission Orchestra
+  image: /images/sections/achievements/berkeley_sym.JPG
+  summary: 在加州大学伯克利分校 The Intermission Orchestra 演出。
+- title: 四川大学交响乐团
+  image: /images/sections/achievements/scu_sym.JPG
+  summary: 在四川大学交响乐团演出。
+- title: 四川大学管乐团
+  image: /images/sections/achievements/scu_wind.JPG
+  summary: 在四川大学管乐团演出。
+- title: 四川大学羽毛球队
+  image: /images/sections/achievements/scu_badminton.JPG
+  summary: 与公共管理学院羽毛球队合影。
+- title: 四川大学羽毛球队
+  image: /images/sections/achievements/scu_badminton_2.JPG
+  summary: 与公共管理学院羽毛球队合影。

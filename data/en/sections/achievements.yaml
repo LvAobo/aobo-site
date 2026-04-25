@@ -6,8 +6,25 @@ section:
   weight: 6
   showOnNavbar: true
 
-# Photo gallery — replace the placeholder images with your own photos
 achievements:
-- title: Placeholder
-  image: /images/sections/achievements/presenter.jpg
-  summary: Replace with your own photo and caption.
+- title: WashU Wind Ensemble
+  image: /images/sections/achievements/washu_wind.jpg
+  summary: Performing with the WashU Wind Ensemble.
+- title: WashU Symphony Orchestra
+  image: /images/sections/achievements/washu_sym.JPG
+  summary: Performing with the WashU Symphony Orchestra.
+- title: The Intermission Orchestra at Berkeley
+  image: /images/sections/achievements/berkeley_sym.JPG
+  summary: Performing with The Intermission Orchestra at UC Berkeley.
+- title: SCU Symphony Orchestra
+  image: /images/sections/achievements/scu_sym.JPG
+  summary: Performing with the Sichuan University Symphony Orchestra.
+- title: SCU Wind Ensemble
+  image: /images/sections/achievements/scu_wind.JPG
+  summary: Performing with the Sichuan University Wind Ensemble.
+- title: SCU Badminton Team
+  image: /images/sections/achievements/scu_badminton.JPG
+  summary: With the School of Public Administration Badminton Team.
+- title: SCU Badminton Team
+  image: /images/sections/achievements/scu_badminton_2.JPG
+  summary: With the School of Public Administration Badminton Team.

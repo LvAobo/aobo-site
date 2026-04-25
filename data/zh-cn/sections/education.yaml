@@ -14,7 +14,7 @@ degrees:
   institution:
     name: 圣路易斯华盛顿大学
     url: "https://washu.edu/"
-    logo: /images/sections/education/washu.png
+    logo: /images/sections/education/washu.jpg
   extracurricularActivities:
   - "圆号手，华盛顿大学交响乐团与管乐团"
   - "ESE系 Ph.D. Advisory Board 成员"
@@ -25,7 +25,7 @@ degrees:
   institution:
     name: 圣路易斯华盛顿大学
     url: "https://washu.edu/"
-    logo: /images/sections/education/washu.png
+    logo: /images/sections/education/washu.jpg
   customSections:
     - name: 荣誉
       content: "荣誉硕士生 (Honors Master Student)；杰出硕士研究奖 (Outstanding Master's Research Award)"
@@ -33,13 +33,23 @@ degrees:
   - "圆号手，华盛顿大学交响乐团"
   - "ESE系 Master Advisory Board 成员"
 
+- name: 信息学院 访问学生
+  icon: fa-plane
+  timeframe: 2020 - 2020
+  institution:
+    name: 加州大学伯克利分校
+    url: "https://www.berkeley.edu/"
+    logo: /images/sections/education/berkeley.png
+  extracurricularActivities:
+  - "圆号手，伯克利 The Intermission Orchestra"
+
 - name: 信息管理与信息系统 学士
   icon: fa-university
   timeframe: 2017 - 2021
   institution:
     name: 四川大学 公共管理学院
     url: "https://www.scu.edu.cn/"
-    logo: /images/sections/education/scu.png
+    logo: /images/sections/education/sichuan_university.png
   customSections:
     - name: 荣誉
       content: "四川省优秀本科毕业生，2021；永庄十佳大学生奖学金，2019"
