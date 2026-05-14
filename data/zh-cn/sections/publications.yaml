@@ -19,6 +19,21 @@ buttons:
 
 # 论文列表
 publications:
+- title: "Closed-Form Gaussian Estimators for Multi-Source Partial Information Decomposition"
+  publishedIn:
+    name: arXiv 预印本
+    date: 2026
+    url: https://arxiv.org/abs/2605.09919
+  authors:
+  - name: A. Lyu
+  - name: A. Clark
+  - name: N. Raviv
+  paper:
+    summary: 本文为多源偏信息分解开发了闭式高斯估计器，提供了双源冗余、多源唯一信息和K阶协同效应的解析表达式。估计器基于条件独立信息度量推导，可归约为协方差矩阵块的对数行列式表达式。
+    url: https://arxiv.org/abs/2605.09919
+  categories: ["info-decomposition"]
+  tags: ["PID", "信息论", "高斯估计"]
+
 - title: "Structural Impossibility of Antichain-Lattice Partial Information Decomposition"
   publishedIn:
     name: arXiv 预印本

@@ -8,3 +8,47 @@
     image-rendering: auto;
   }
 }
+
+// Russell quote section above footer
+.russell-quote-section {
+  background-color: var(--bg-card, #f8f9fa);
+  padding: 3.5rem 1rem;
+  text-align: left;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+
+  // Match the max-width of other sections (Bootstrap .container default)
+  .container {
+    max-width: 1200px;
+  }
+
+  .russell-quote {
+    margin: 0;
+    padding: 0;
+    border-left: none;
+    font-family: 'Lora', Georgia, serif;
+
+    p {
+      font-size: 1.25rem;
+      line-height: 2;
+      font-style: italic;
+      color: var(--text-secondary, #555);
+      margin-bottom: 0.6rem;
+    }
+
+    .russell-attribution {
+      font-size: 1.1rem;
+      font-style: normal;
+      color: var(--text-muted, #888);
+      text-align: right;
+      margin-top: 1.2rem;
+    }
+  }
+}
+
+// Dark mode adjustment
+html[data-theme='dark'] {
+  .russell-quote-section {
+    background-color: var(--bg-card, #1a1a2e);
+    border-top-color: rgba(255, 255, 255, 0.06);
+  }
+}
